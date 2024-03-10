@@ -24,7 +24,7 @@
 |    |    |    
 |    |    |-- js/
 |    |        |
-|    |        |-- main.js                        # Custom JavaScript functions for client-side logic.
+|    |        |-- main.js                       # Custom JavaScript functions for client-side logic.
 |    |
 |    |-- config.py                              # app configuration
 |    |-- run.py                                 # Start the app in development and production
@@ -32,5 +32,5 @@
 |
 |tests/
 |
-|-- venv
+|-- venv/
 |-- .gitignore
