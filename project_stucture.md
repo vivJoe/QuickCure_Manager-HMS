@@ -5,7 +5,7 @@
     |-- templates
         |-- index.html (landing page)
         |-- auth
-            |-- patient_registration.html (Page for patient registration.)
+            |-- register.html (Page for patient registration.)
             |-- login.html (Login page.)
         |-- appointment_scheduling.html (Page for appointment scheduling.)
         |-- staff_management.html (Admin Page)
@@ -20,4 +20,4 @@
     |-- config.py
     |-- run.py
 |-- venv
-|- .gitignore
+|-- .gitignore
