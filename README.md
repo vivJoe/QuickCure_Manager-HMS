@@ -13,5 +13,5 @@ This system aims to simplify patient and staff management, appointment schedulin
     + [Frontend: HTML, CSS, JavaScript, Bootstrap.](#frontend:-html,-css,-javascript,-bootstrap.)
     + [Backend: Flask](#backend:-flask)
     + [Database: Sqlite3](#database:-sqlite3)
-- [Documentation: Comming soon](#documentation:-coming soon)
+- [Documentation: Coming soon](#documentation:-coming-soon)
 <!--te-->
